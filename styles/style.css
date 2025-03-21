@@ -139,6 +139,9 @@ h1 {
 #ProximosEncontros h2 {
   padding: 50px;
 }
+#Galeria{
+  margin-top: 50px;
+}
 #galeria {
   display: flex;
   flex-direction: column;
@@ -148,4 +151,8 @@ h1 {
 }
 #galeria img {
   padding: 20px;
+}
+a{
+  text-decoration: none;
+  color: #079127
 }
